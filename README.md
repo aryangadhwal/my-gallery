@@ -1,1 +1,3 @@
-# my-gallery
+In this project, I created a  responsive gallery  in which images have an hovering effect... 
+
+vist to see website 👉 https://awalzz-gallery.netlify.app
